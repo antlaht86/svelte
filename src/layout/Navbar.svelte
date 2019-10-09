@@ -74,16 +74,6 @@
     color: #f1f1f1;
   }
 
-  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
-  @media screen and (max-height: 450px) {
-    .sidenav {
-      padding-top: 15px;
-    }
-    .sidenav a {
-      font-size: 18px;
-    }
-  }
-
   .z-index-10000 {
     z-index: 10000;
   }

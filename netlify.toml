@@ -2,3 +2,4 @@
 [dev]
   command="yarn dev"
   port=5000
+  publish="public" # this is new
