@@ -1,5 +1,0 @@
-# netlify.toml dev block example
-[dev]
-  command="npm run dev"
-  port=5000
-  publish="public" # this is new
