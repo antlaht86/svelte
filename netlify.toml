@@ -1,0 +1,4 @@
+# netlify.toml dev block example
+[dev]
+  command="yarn dev"
+  port=5000
